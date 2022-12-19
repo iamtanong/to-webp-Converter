@@ -1,6 +1,8 @@
 from PIL import Image
 import os
 
+# TODO: import pyinstaller
+
 # !! Access Path ONLY with Folders.
 # * EDIT Path HERE
 path = "."

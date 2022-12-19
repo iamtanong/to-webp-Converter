@@ -26,3 +26,5 @@ Next, open Command prompt and type
     python convert.py
 
 Then, Your PNG and JPG files is converted to WEBP.
+
+###### TODO: Use library _pyinstaller_ to create Executable file(.exe file) for EASIER use, soon.
